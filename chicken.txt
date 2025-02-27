@@ -1,3 +1,4 @@
 This is the 2nd text doc I am adding to the repo.
  Trying to refamilarize myself with this since the first time going through
 the git course did not stick.
+I need to make a Commit on Git. 
